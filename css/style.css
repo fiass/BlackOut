@@ -221,7 +221,7 @@ blockquote .small:before {
 }
 
 .table.table-striped>thead tr {
-    background-color: #111111
+    background-color: #e4e4e4e
 }
 
 .table.table-striped>thead tr>th,
@@ -230,7 +230,7 @@ blockquote .small:before {
 }
 
 .table.table-striped>tbody>tr:nth-of-type(even) {
-    background-color: #f7f7f7
+    background-color: #e4e4e4e
 }
 
 .table.table-bordered>thead>tr>th,
